@@ -1,0 +1,9 @@
+﻿  Q3.cpp
+  Q4.cpp
+c:\users\dave2\desktop\project1\project1\q4.cpp(8): warning C4101: 'ptrNames': unreferenced local variable
+  Source.cpp
+  Vector2.cpp
+c:\users\dave2\desktop\project1\project1\vector2.cpp(17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+Q3.obj : error LNK2019: unresolved external symbol "void __cdecl vectorNormalise(float * const)" (?vectorNormalise@@YAXQAM@Z) referenced in function _main
+C:\Users\dave2\Desktop\Project1\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
